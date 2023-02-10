@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "pizzeria_name": "Mama Mia",
+        "city": "Bruno Town",
+        "zip_code": 98122
+    },
+    {
+        "id": 2,
+        "pizzeria_name": "Anotha One",
+        "city": "Foo Bar Town",
+        "zip_code": 88111
+    },
+    {
+        "id": 3,
+        "pizzeria_name": "Lickitung Townies",
+        "city": "Am i",
+        "zip_code": 92928
+    }
+]
